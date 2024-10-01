@@ -3,7 +3,9 @@
 Refreshing my Python skills the TDD way
 
 Flask
+
 unittest, api
+
 selenium, e2e, frontend
 
 Following the tutorial:
